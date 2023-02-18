@@ -1,2 +1,2 @@
 # calculator
-trying to make a simple calculator
+trying to make a simple calculator with basic funtions 
